@@ -30,3 +30,5 @@ Build a tool that checks password strength based on:
 ### 🏷️ Internship:
 Prodigy Infotech Cybersecurity Internship Task-03
 
+🔗 LinkedIn Post:
+
