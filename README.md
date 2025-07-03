@@ -31,4 +31,4 @@ Build a tool that checks password strength based on:
 Prodigy Infotech Cybersecurity Internship Task-03
 
 🔗 LinkedIn Post:
-
+https://www.linkedin.com/posts/gauri-yadav-486561312_internship-passwordchecker-cybersecurity-activity-7346440915219005442-f_oa?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE91y2YBgruFVkl4wwfT4FIgHhDXQB9ERyc
