@@ -24,9 +24,8 @@ Build a tool that checks password strength based on:
 4. Enter password in the GUI and check strength.
 
 ### 📸 Sample Screenshots:
-*(Add your screenshots here after running the code)*
+![Screenshot 2025-07-03 124220](https://github.com/user-attachments/assets/49e8579c-fb26-45eb-a993-ef58105cb176)
 
----
 
 ### 🏷️ Internship:
 Prodigy Infotech Cybersecurity Internship Task-03
